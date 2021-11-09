@@ -1,2 +1,2 @@
 # OTP-generator
-One Time Password 
+One Time Password generator
